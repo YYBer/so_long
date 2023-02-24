@@ -2,9 +2,9 @@
 This is a 2D game.
 
 ## Requirements
-    warning The project must be written in accordance with the Norm
-
-### The Norm is a programming standard that defines a set of rules to follow when writing code at 42. It applies to all C projects within the Common Core       by default, and to any project where it's specified. These are some of them:
+### warning The project must be written in accordance with the Norm
+    The Norm is a programming standard that defines a set of rules to follow when writing code at 42. It applies to all C projects within the Common Core       by default, and to any project where it's specified. These are some of them:
+    
     Each function must be maximum 25 lines, not counting the function's own curly brackets.
 
     Each line must be at most 80 columns wide, comments included.
