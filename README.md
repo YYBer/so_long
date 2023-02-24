@@ -22,22 +22,24 @@ This is a 2D game.
 ## How does it work?
 
 ### in Linux:
+#### To play, first compile the project with make:
 
-    To play, first compile the project with make:
-
-    $ make
+    $make
+#### In case you wanna play the bonus version:
+    $make bonus
     
-    In case you wanna play the bonus version:
-    $ make bonus
+#### So, run ./so_long followed by the map:
+    $./so_long assets/map/map1.ber	
+#### or
+    $./so_long assets/map/map2.ber
     
-    So, run ./so_long followed by the map:
-    $ ./so_long assets/map/map1.ber	
-    or
-    $ ./so_long assets/map/map2.ber
-    
-    For bonus:
-    ./so_long_bonus assets/map/map6.ber
-    or
-    ./so_long_bonus assets/map/map7.ber
-    or
-    ./so_long_bonus assets/map/map8.ber
+#### For bonus:
+    $./so_long_bonus assets/map/map6.ber
+#### or
+    $./so_long_bonus assets/map/map7.ber
+#### or
+    $./so_long_bonus assets/map/map8.ber
+#### check memory leak with valgrind
+    $make run
+#### or
+    $make runbonus
