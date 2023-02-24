@@ -39,7 +39,7 @@ This is a 2D game.
     $./so_long_bonus assets/map/map7.ber
 #### or
     $./so_long_bonus assets/map/map8.ber
-#### check memory leak with valgrind
+#### Check memory leak with valgrind
     $make run
 #### or
     $make runbonus
