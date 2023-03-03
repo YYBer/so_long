@@ -1,9 +1,6 @@
 # so_long
 This is a 2D game.
 
-# so_long
-This is a 2D game.
-
 ## Requirements
 ### warning The project must be written in accordance with the Norm
     The Norm is a programming standard that defines a set of rules to follow when writing code at 42. It applies to all C projects within the Common Core       by default, and to any project where it's specified. These are some of them:
