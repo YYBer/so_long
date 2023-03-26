@@ -1,5 +1,6 @@
 # so_long
 This is a 2D game.
+![image](https://github.com/YYBer/so_long/blob/main/so_long.gif)
 
 ## Requirements
 ### warning The project must be written in accordance with the Norm
